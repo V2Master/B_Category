@@ -9,5 +9,5 @@ use_frameworks!
 target 'B_Category' do
  
  pod "CTMediator"
- 
+
 end
